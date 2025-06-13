@@ -25,7 +25,7 @@ The cleaned dataset was visualized in Tableau through the following dashboards:
 1. Clone this repository  
 2. Install Python dependencies  
 3. Run the cleaning script  
-4. Import cleanecsv in tableau
+4. Import clean csv in tableau
 ---
 
 
