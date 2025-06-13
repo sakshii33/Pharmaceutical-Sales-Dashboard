@@ -4,7 +4,7 @@ This project focuses on analyzing pharmaceutical sales data by cleaning and tran
 
 ---
 
-## 🔧 Data Cleaning (Python)
+##  Data Cleaning (Python)
 
 - Handled missing values and duplicates
 - Standardized column formats (dates, text casing)
